@@ -1,6 +1,21 @@
 Header{
-    background-color: gray;
+    background-color: black;
+    color: white;
     
-
-
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+ul {
+ list-style-type: none;
+ display: inline-block;
+}
+li {
+    display: inline;
+    margin-left: 20px;
+}
+#theater {
+    display: inline-block;
+    max-width: 20%;
 }
